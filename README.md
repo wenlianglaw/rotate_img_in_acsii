@@ -2,6 +2,8 @@
 
 A lightweight, terminal-based 3D engine written in C++20. This project loads 2D images, extrudes them into 3D voxel spaces based on pixel brightness, and renders them in real-time as rotating ASCII art directly in your command line.
 
+![demo](https://github.com/wenlianglaw/rotate_img_in_acsii/blob/main/demo.gif)
+
 ## Architecture
 
 1. The World Class
