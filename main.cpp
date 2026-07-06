@@ -7,14 +7,15 @@
    - Character sets are manually created into 4x2 (8-bit) pixel blocks.
 
    LwL
-   2025-05-20 (Original)
-   2026-07-05 (Updated with Gemini help)
+   2025-05-20 Original
+   2026-07-05 Updated with Gemini 3.1's help
    - Fixed a few bugs:
-   - indices are not correctly set in for loop.
-   - precison losing during computing.
+      - indices are not correctly set in for loop.
+      - precison losing during computing.
    - Some cout stuff for better display performance
    - More character sets.
    - Image Loader
+   - Updated rotation speed to make it more linearly .
    */
 
 #include <chrono>
